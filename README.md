@@ -14,7 +14,7 @@ It creates a 64x64 grid of random values and paints it with a color palette. It�
 
 You can run it directly in Google Colab:
 
-👉 [Open in Colab](https://colab.research.google.com/github/megsspooky/spooky-tunes/blob/main/ai_noise_art.ipynb)
+👉 [![Open In Colab](https://colab.research.google.com/github/megsspooky/spooky-tunes/blob/main/AI_noise_art.ipynb)
 
 ---
 
