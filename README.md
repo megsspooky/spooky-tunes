@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/megsspooky/spooky-tunes/blob/main/ai_noise_art.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/megsspooky/spooky-tunes/blob/main/AI_noise_art.ipynb)
 # ✨ Spooky Tunes – GAN-Inspired Chaos by @megsspooky
 
 This notebook generates random "fake" images using pure noise and a splash of color — a baby step into the world of GANs and generative AI.
